@@ -3,7 +3,8 @@ abarcando la vida completa del sistema, desde la definición de los requisitos h
 
 2) Análisis → Se determina y define las necesidades del cliente y se especifica los requisitos que debe seguir el software a desarrollar.
 
-	+Diseño	→ Se descompone y organiza el sistema en elementos componentes que pueden desarrollarse por separado, y se especifica la interrelación y funcionalidad de los elementos componentes.
+	+Diseño	→ Se descompone y organiza el sistema en elementos componentes que pueden desarrollarse por separado, y se especifica la interrelación y funcionalidad 
+	de los elementos componentes.
 
 	+Codificación → Se escribe el código fuente de cada componente.
 
