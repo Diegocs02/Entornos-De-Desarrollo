@@ -38,7 +38,7 @@ el correcto funcionamiento.
       
   5) La verificación formal es una rigurosa demostración matemática de la concordancia del código fuente con sus especificaciones.
      
-     La validación es la evaluación del software al final del proceso de desarrollo del software para determinar su conformidad con los requisitos IEEE.
+     La validación es la evaluación del software al final del proceso de desarrollo del software para determinar su conformidad con los requisitos del cliente.
      
   6) Se crea un prototipo durante la fase de análisis y es probado por el usuario/cliente para refinar los requisitos del software a desarrollar.
      Se repite el paso anterior las veces necesarias.
