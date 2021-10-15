@@ -1,0 +1,96 @@
+1) Es la estructura que contiene los procesos, actividades y tareas relacionadas con el desarrollo y mantenimiento de un producto de software, 
+abarcando la vida completa del sistema, desde la definición de los requisitos hasta la finalización de su uso.
+
+2) Análisis → Se determina y define las necesidades del cliente y se especifica los requisitos que debe seguir el software a desarrollar.
+
+	+Diseño	→ Se descompone y organiza el sistema en elementos componentes que pueden desarrollarse por separado, y se especifica la interrelación y funcionalidad de los elementos componentes.
+
+	+Codificación → Se escribe el código fuente de cada componente.
+
+	+Pruebas → Objetivo de que el programa funcione incorrectamente y descubrir sus defectos.
+  
+	+Mantenimiento → Realizar cambios ocasionales, rehacer el trabajo realizado en fases previas.
+  
+3) El modelo en cascada es el modelo más antiguo, en el que se indican las fases de desarrollo del software y las fases deben realizarse en el orden indicado.
+
+4) VENTAJAS:
+     +Es un modelo lineal, por lo que es más simple su implementación.
+
+     +La cantidad de recursos necesarios para implementar en este 
+modelo son mínimos.
+
+     +La documentación se produce en cada etapa del 
+desarrollo del modelo, por lo que el procedimiento 
+es más sencillo.
+
+     +Después de cada etapa se realizan pruebas para comprobar
+el correcto funcionamiento.
+
+  INCONVENIENTES:
+      +No se pude volver hacia atrás en el proceso.
+      
+      +Cualquier cambio que quiera el cliente puede causar confusión a la hora de hacer el software.
+      
+      +Los pequeños cambios o errrores pueden causar mucho problema.
+      
+      +El modelo de trabajo de software no está en las manos del cliente, por lo que puede que se haga algo que el cliente no quería o no había pedido.
+      
+  5) La verificación formal es una rigurosa demostración matemática de la concordancia del código fuente con sus especificaciones.
+     
+     La validación es la evaluación del software al final del proceso de desarrollo del software para determinar su conformidad con los requisitos IEEE.
+     
+  6) Se crea un prototipo durante la fase de análisis y es probado por el usuario/cliente para refinar los requisitos del software a desarrollar.
+     Se repite el paso anterior las veces necesarias.
+     
+  7) Individuos e interacciones.
+     Sofware funcionando.
+     Colaboración con el cliente.
+     Respuesta ante el cambio.
+     
+  8) Es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario.
+  
+  9) Cómo funciona Scrum:
+      -Está especialmente indicado para proyectos en entornos complejos, donde se necesita obtener resultados pronto, donde los requisitos son cambiantes o poco definidos,
+      donde la innovación, la competitividad, la flexibilidad y la productividad son fundamentales.
+      
+      -También se utiliza para resolver situaciones en que no se está entregando al cliente lo que necesita, cuando las entregas se alargan demasiado, 
+      los costes se disparan o la calidad no es aceptable, cuando se necesita capacidad de reacción ante la competencia, cuando la moral de los equipos es baja 
+      y la rotación alta, cuando es necesario identificar y solucionar ineficiencias sistemáticamente o cuando se quiere trabajar utilizando un proceso especializado 
+      en el desarrollo de producto.
+      
+ 10) Product backlog: Es una lista ordenada con los requisitos del producto.
+     
+     Sprint backlog: Es una  lista de requisitos sacados del backlog para su desarrollo durante el sprint.
+     
+ 11) Scrum Master.
+     Product owner.
+     Team.
+     
+ 12) +Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
+ 
+     +Compromiso del cliente en la dirección de los resultados del proyecto, gestión del ROI y disponibilidad para poder colaborar.
+     
+     +Compromiso de la Dirección de la organización para resolver problemas endémicos y realizar cambios organizativos, formando equipos autogestionados 
+     y multidisciplinares y fomentando una cultura de gestión basada en la colaboración y en la facilitación llevada a cabo por líderes al servicio del equipo.
+     
+     +Compromiso conjunto y colaboración de los miembros del equipo.
+     
+     +Relación entre proveedor y cliente basada en ganar-ganar, colaboración y transparencia.
+     
+     +Facilidad para realizar cambios en el proyecto.
+     
+     +Tamaño de cada equipo entre 5 y 9 personas (con técnicas específicas de planificación y coordinación cuando varios equipos trabajan en el mismo proyecto).
+     
+     +Equipo trabajando en un mismo espacio común para maximizar la comunicación.
+     
+     +Dedicación del equipo a tiempo completo.
+     
+     +Estabilidad de los miembros del equipo.
+     
+      
+      
+      
+      
+      
+      
+      
