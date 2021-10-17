@@ -51,7 +51,7 @@ el correcto funcionamiento.
   8) Es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario.
   
   9) Cómo funciona Scrum:
-      -Planificación de la interación
+      -Planificación de la interación:
       	+Selección de requisitos: El cliente presenta al equipo la lista de requisitos priorizada del producto o proyecto.
 	+Planificación de la interación: El equipo elabora la lista de tareas de la iteración necesarias para desarrollar los requisitos seleccionados.
 	
@@ -59,9 +59,14 @@ el correcto funcionamiento.
       para hacer las adaptaciones necesarias para cumplir con la previsión de objetivos. El scrum Master mantiene el foco en el trabajo para conseguir los objetivos,
       y el cliente o product owner se encarga de refinar la lista de requisitos.
       
-      -Inspección y adaptación
+      -Inspección y adaptación: El último día se realiza la reunión de revisión de la iteración.
+      	 +Revisión: El equipo presenta al cliente los requisitos completados en la iteración, en forma de incremento de producto 
+	 preparado para ser entregado con el mínimo esfuerzo. El cliente puede realizar las adaptaciones necesarias de manera objetiva, 
+	 ya desde la primera iteración, replanificando el proyecto.
+	 +Retrospectiva: El equipo analiza cómo ha sido su manera de trabajar y cuáles son los problemas que podrían impedirle progresar adecuadamente, 
+	 mejorando de manera continua su productividad. 
       
-      -
+      
  10) Product backlog: Es una lista ordenada con los requisitos del producto.
      
      Sprint backlog: Es una  lista de requisitos sacados del backlog para su desarrollo durante el sprint.
